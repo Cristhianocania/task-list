@@ -12,7 +12,7 @@ export class HeaderComponent implements OnInit {
 
   ngOnInit(): void {
   }
-  toogleAndTask(){
+  toggleAddTask(){
 
     console.log("asdasd");
   }
